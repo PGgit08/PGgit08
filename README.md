@@ -1,4 +1,4 @@
-#TODO:
+# TODO:
 - Finish TypeScript Game Engine (GETS)
 - Maybe -> Custom FPGA Processor PCB
 - Maybe -> Arduino Haptic Steering Wheel
