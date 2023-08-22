@@ -1,5 +1,4 @@
 # TODO:
 - Finish TypeScript Game Engine (GETS)
-- Maybe -> Custom FPGA Processor PCB
-- Maybe -> Arduino Haptic Steering Wheel
-- Maybe -> Finish DeliDash
+- Maybe -> Analog PID Controller
+- Maybe -> 16-Bit Breadboard Processor
